@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Vinícius Zanon</h1>
-<h3 align="center">Engenheiro de Computação e Mestrando de Engenharia Biomédica pela Universidade Federal de Santa Catarina</h3>
+<h3 align="center">Engenheiro de Computação e Mestrando de Engenharia Biomédica pela UFSC </h3>
 
 - 🔭 Atualmente trabalho no meu mestrado com **a predição de infarto do miocárdio** utilizando **Redes Neurais Pulsadas**.
 
