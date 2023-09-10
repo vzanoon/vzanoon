@@ -1,7 +1,7 @@
 <h2 align="center">Olá, sou Vinícius Zanon</h2>
 <h3 align="center">Engenheiro de Computação e Mestrando de Engenharia Biomédica pela UFSC </h3>
 
-- 🔭 Atualmente trabalho no meu mestrado com **a predição de infarto do miocárdio** utilizando **Redes Neurais Pulsadas**.
+- 🔭 Atualmente trabalho no meu mestrado com **a predição de crises epilépticas** utilizando **Redes Neurais Pulsadas**.
 
 - 👯 Estou atuando como Engenheiro de Pesquisa e Desenvolvimento (P&D) em projetos da startup MedEOR Medtech no desenvolvimento de tecnologias vestíveis.
 
@@ -15,7 +15,7 @@
 
 - 💬 Me pergunte sobre **ECG - Eletrocardiograma, IoMT - Internet das Coisas Médicas, SNN - Spikes Neural Network, Dispositivos Vestíveis, Sistemas Embarcados. Gosto bastante dessas áreas de pesquisa.**
 
-- 📫 Para entrar em contato, mande um email para **vinicius.zanon@posgrad.ufsc.br**
+- 📫 Para entrar em contato, mande um email para **vinicius.zanon@medeor.cc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
