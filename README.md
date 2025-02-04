@@ -1,9 +1,9 @@
 <h2 align="center">Olá, sou Vinícius Zanon</h2>
-<h3 align="center">Engenheiro de Computação e Mestrando de Engenharia Biomédica pela UFSC </h3>
+<h3 align="center">Engenheiro de Computação e Mestre em Engenharia Biomédica pela UFSC </h3>
 
-- 🔭 Atualmente trabalho no meu mestrado com **a predição de crises epilépticas** utilizando **Redes Neurais Pulsadas**.
+- 🔭 Desenvolvi no meu trabalho de mestrado uma **Rede Neural Pulsada para a predição de crises epilépticas (períodos pré-ictais) utilizando sinais cardíacos**.
 
-- 👯 Estou atuando como Engenheiro de Pesquisa e Desenvolvimento (P&D) em projetos da startup MedEOR Medtech no desenvolvimento de tecnologias vestíveis.
+- 👯 Especialista em tecnologias vestiveis e atuando como CTO em projetos da startup MedEOR Medtech no desenvolvimento de novos produtos e tecnologias.
 
 - 🎓 Desenvolvi como trabalho de conclusão de curso um **Dispositivo Vestível para o Exame de ECG**, eliminando todos os fios conectados ao corpo do paciente.
 
